@@ -1,10 +1,10 @@
 {
   "name": "-asdf",
   "version": "1.0.0",
-  "description": "",
-  "main": "tokyo.js",
+  "description": "ParzivaL Abone Botu",
+  "main": "parzival.js",
   "scripts": {
-    "start": "node tokyo.js"
+    "start": "node parzival.js"
   },
   "engines": {
     "node": "12.x"
@@ -12,7 +12,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "aoi.js": "^4.6.0",
-    "yt-search": "^2.8.0"
+    "aoi.js": "^4.6.0"
   }
 }
